@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning at Masai School
 - 📫 How to reach me sohamdoshi17@gmail.com
-
+<p><img align="right" src="https://user-images.githubusercontent.com/106314995/204321008-6b63a71c-dab3-4883-84c6-445cb1f4efd8.gif" alt="sohamdoshi" /></p>
 
 <h1 align="center">Hi 👋, I'm Soham M Doshi</h1>
 <h3 align="center">A passionate Backend developer!</h3>
@@ -16,7 +16,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-![6ea8c68dfa924bc2e6a9abe3e473087a](https://user-images.githubusercontent.com/106314995/204321008-6b63a71c-dab3-4883-84c6-445cb1f4efd8.gif)
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohamdoshi&show_icons=true&locale=en&layout=compact" alt="sohamdoshi" /></p>
