@@ -1,8 +1,10 @@
+<p><img align="right" src="https://user-images.githubusercontent.com/106314995/204321008-6b63a71c-dab3-4883-84c6-445cb1f4efd8.gif" alt="sohamdoshi" /></p>
+
 - 👋 Hi, I’m @SohamDoshi
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning at Masai School
 - 📫 How to reach me sohamdoshi17@gmail.com
-<p><img align="right" src="https://user-images.githubusercontent.com/106314995/204321008-6b63a71c-dab3-4883-84c6-445cb1f4efd8.gif" alt="sohamdoshi" /></p>
+
 
 <h1 align="center">Hi 👋, I'm Soham M Doshi</h1>
 <h3 align="center">A passionate Backend developer!</h3>
