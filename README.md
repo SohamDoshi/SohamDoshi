@@ -1,6 +1,8 @@
 
+![Header](https://user-images.githubusercontent.com/106314995/205127197-bdf6e5b9-2925-4358-8075-e2d6a205fa4e.png)
 
-//<img src ="https://github.com/1301yashraj/1301yashraj/blob/main/github-header-image.png" />
+
+
 <h3 align="justify">Hey! I am student who is passionate about developing user-friendly software
 applications. Flexible, always open to learn and a solution oriented guy. Willing to contribute
 to an organization as a software engineer, as well as grow and develop my own skills as a coder.</h3>
