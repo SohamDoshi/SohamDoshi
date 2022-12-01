@@ -1,33 +1,32 @@
 
 
-<img src ="https://github.com/1301yashraj/1301yashraj/blob/main/github-header-image.png" />
+//<img src ="https://github.com/1301yashraj/1301yashraj/blob/main/github-header-image.png" />
 <h3 align="justify">Hey! I am student who is passionate about developing user-friendly software
 applications. Flexible, always open to learn and a solution oriented guy. Willing to contribute
 to an organization as a software engineer, as well as grow and develop my own skills as a coder.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1301yashraj&label=Profile%20views&color=0e75b6&style=flat" alt="yashraj" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SohamDoship&label=Profile%20views&color=0e75b6&style=flat" alt="#" /> </p>
 
 ## Fun Fact 🎈:
 
 - 🌱 I’m proficient in <b> HTML CSS JavaScript Java SpringBoot and SQL </b>
 
-- 👨‍💻 All of my projects are available at [https://1301yashraj.github.io/](https://1301yashraj.github.io/)
+- 👨‍💻 All of my projects are available at [https://SohamDoshi.github.io/](https://SohamDoshi.github.io/)
 
 - 💬 Ask me about <b>Java Backend and SQL</b>
 
-- 📫 Contact me **1301yashraj@gmail.com**   and Connect with me On Linkedin **www.linkedin.com/in/yash-raj-426471118**
+- 📫 Contact me **sohamdoshi17@gmail.com**   and Connect with me On Linkedin **[www.linkedin.com/in/soham-m-doshi-b42ab5246]**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1U07tT1AyvYy4hijq7eddt7PZX7pHutIq/view?usp=sharing]
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=1301yashraj" alt="1301yashraj" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=SohamDoshi" alt="SohamDoshi" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/yash-raj-426471118/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="1301yashraj" height="30" width="40" /></a>
-<a href="https://leetcode.com/1301yashraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="1301yashraj" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/1301yashraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="1301yashraj" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/soham-m-doshi-b42ab5246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SohamDoshi" height="30" width="40" /></a>
+<a href="https://leetcode.com/sohamdoshi17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="SohamDoshi" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/SohamDoshi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="1301yashraj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
