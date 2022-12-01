@@ -30,15 +30,15 @@ to an organization as a software engineer, as well as grow and develop my own sk
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://github.com/1301yashraj/1301yashraj/blob/main/javatechstack.png" alt="Tech-stack" height="200" width="300" />
+<img src="https://github.com/1301yashraj/SohamDoshi/blob/main/javatechstack.png" alt="Tech-stack" height="200" width="300" />
 
 <h2><i>My GitHub Stats</i></h2>
 <br>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=1301yashraj&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="1301yashraj" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1301yashraj&layout=compact&hide=Shell&border_radius=0&theme=dark" alt="1301yashraj" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SohamDoshi&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="SohamDoshi" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamDoshi&layout=compact&hide=Shell&border_radius=0&theme=dark" alt="SohamDoshi" height="139" />
 </p>
 
-<a href="https://github.com/1301yashraj/github-readme-activity-graph"><img alt="1301yashraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=1301yashraj&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/SohamDoshi/github-readme-activity-graph"><img alt="1301yashraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SohamDoshi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
