@@ -33,13 +33,13 @@ to an organization as a software engineer, as well as grow and develop my own sk
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div style="display:flex;">
+<div>
   <img src="https://user-images.githubusercontent.com/106314995/205224559-b6b09af0-e11e-48cf-bc5d-749af60138a8.png" height="50" width="50">
   <img src="https://user-images.githubusercontent.com/106314995/205224645-daa73941-11a0-416c-a1b6-edecf27220fd.png" height="50" width="50">
   <img src="https://user-images.githubusercontent.com/106314995/205224668-9b6d1a25-0296-45a0-b128-3b644376016d.png" height="50" width="50">
   <img src="https://user-images.githubusercontent.com/106314995/205224365-16fb82c1-fed1-4abe-b785-11b7da77bb4b.png" height="50" width="50">
   <img src="https://user-images.githubusercontent.com/106314995/205224471-3313d02c-206d-4fbb-870f-eaf794bb38e6.png" height="50" width="50">
-  <img src="https://user-images.githubusercontent.com/106314995/205224692-fa599d59-2244-484f-8e22-3f46e93babac.png" height="50" width="50">
+  <img src="https://user-images.githubusercontent.com/106314995/205227367-12f8addf-6971-4ee8-9b37-e64cf41fbb1f.png" height="50" width="50"> 
 </div>
 
 
