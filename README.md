@@ -11,7 +11,7 @@ to an organization as a software engineer, as well as grow and develop my own sk
 
 ## Fun Fact 🎈:
 
-- 🌱 I’m proficient in <b> HTML CSS JavaScript Java SpringBoot and SQL </b>
+- 🌱 I’m proficient in <b> HTML, CSS, JavaScript, Java, SpringBoot and SQL </b>
 
 - 👨‍💻 All of my projects are available at [https://SohamDoshi.github.io/](https://SohamDoshi.github.io/)
 
