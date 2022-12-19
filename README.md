@@ -9,7 +9,7 @@ to an organization as a software engineer, as well as grow and develop my own sk
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SohamDoship&label=Profile%20views&color=0e75b6&style=flat" alt="#" /> </p>
 
-## Fun Fact 🎈:
+## About Me 🎈:
 
 - 🌱 I’m proficient in <b> HTML, CSS, JavaScript, Java, SpringBoot and SQL </b>
 
