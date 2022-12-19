@@ -51,5 +51,5 @@ to an organization as a software engineer, as well as grow and develop my own sk
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamDoshi&layout=compact&hide=Shell&border_radius=0&theme=dark" alt="SohamDoshi" height="139" />
 </p>
 
-<a href="https://github.com/SohamDoshi/github-readme-activity-graph"><img alt="1301yashraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SohamDoshi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/SohamDoshi/github-readme-activity-graph"><img alt="SohamDoshi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SohamDoshi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
