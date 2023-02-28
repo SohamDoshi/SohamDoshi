@@ -4,7 +4,7 @@
 <h1 align="center">
     Hi
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-    I'm Rupesh
+    I'm Soham M Doshi
 </h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&lines=Java+Backend+Developer+%3A)" /> </h3>
 <!----------------------------------- About Section ------------------------------------>
@@ -57,14 +57,14 @@
 
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/rupesh-patil-35903b212" target="_blank">
+    <a href="https://www.linkedin.com/in/soham-m-doshi-b42ab5246/" target="_blank">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/rupesh-patil-35903b212" />
     </a>
-    <a href="https://rupesh-1711.github.io/">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="Rupesh-1711.github.io" />
+    <a href="https://SohamDoshi.github.io/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="SohamDoshi.github.io" />
     </a>
-    <a title="rupeshpatil5116@gmail.com" href="mailto:rupeshpatil5116@gmai.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rupeshpatil5116@gmail.com" />
+    <a title="sohamdoshi17@gmail.com" href="mailto:sohamdoshi@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sohamdoshi17@gmail.com" />
     </a>
 </p>
 
@@ -79,13 +79,13 @@
 
 <h2 align="center">📊<i> My Github Stats :</i></h2>
 <div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rupesh-1711&theme=highcontrast" alt="Rupesh Patil" height="250px" width="45%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=rupesh-1711&theme=highcontrast&show_icons=true&count_private=true" alt="Github Stats" height="255px" width="45%"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=SohamDoshi&theme=highcontrast" alt="Rupesh Patil" height="250px" width="45%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=SohamDoshi&theme=highcontrast&show_icons=true&count_private=true" alt="Github Stats" height="255px" width="45%"/>
 </div>
   
 </br>  
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupesh-1711&layout=default&langs_count=8&hide=&theme=highcontrast" alt="Rupesh Patil" height="275px" width="30%"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamDoshi&layout=default&langs_count=8&hide=&theme=highcontrast" alt="Soham M Doshi" height="275px" width="30%"/>
 
     
 </div>
